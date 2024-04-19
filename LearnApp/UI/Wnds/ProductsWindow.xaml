@@ -52,7 +52,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
         <Label
-            Content="Нет рзльтав"
+            Content="Нет"
             Name="lblNoResults" 
             Grid.Row="1"
             HorizontalAlignment="Center"
